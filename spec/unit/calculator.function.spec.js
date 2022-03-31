@@ -89,7 +89,6 @@ describe("Calculator Functions", function() {
     });
   
   });
-  
 
   // divide
 
