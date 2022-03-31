@@ -1,6 +1,6 @@
 ---
 framework: jasmine
-blocklist
+blocklist:
  - "spec/unit/calculator.class.spec.js##Calculator Class"
 preMerge:
   pattern:
