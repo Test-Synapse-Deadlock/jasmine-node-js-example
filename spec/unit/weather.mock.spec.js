@@ -84,7 +84,7 @@ describe("WeatherCaller Class", function() {
     let forecast2 = weatherCaller.getForecast(12, 25, 2017, 27518);
     let forecast3 = weatherCaller.getForecast(12, 25, 2017, 21047);
 
-    // Change forecast value
+    // Change forecast values
     weatherModuleRestore();
     const newForecast = {"high": 39, "low": 18}
     callForecastMock = sinon.stub().returns(newForecast);
