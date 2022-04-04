@@ -12,7 +12,7 @@ Run the following commands to setup the repository locally.
     npm test
 ```
 
-## Integrating with TAS
+## Integrating with TASa
 
 - Fork this repository.
 
