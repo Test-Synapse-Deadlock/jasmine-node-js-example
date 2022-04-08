@@ -59,7 +59,6 @@ describe("Calculator Functions", function() {
   });
   
 
-  // multiply
 
   describe("multiply", function() {
 
