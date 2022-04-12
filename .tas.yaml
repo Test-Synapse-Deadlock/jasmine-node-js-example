@@ -15,4 +15,4 @@ postRun:
   command: 
     - echo 'Done Testing'
 version: 1.0.1
-parallelism : 25
+parallelism : 15
